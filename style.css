@@ -1,4 +1,9 @@
-h1,h2,h3{
+h1{
+  color:rgb(226, 192, 43);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+}
+h2,h3{
   color: black;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   font-size: 15px;
@@ -13,7 +18,7 @@ body{
 }
 
 a{
-  color:rgb(12, 49, 235);
+  color:rgb(235, 12, 120);
   text-decoration:none;
   line-height: 1%;
 }
@@ -50,7 +55,6 @@ margin: 32px auto;
 div{
 
   padding:30px;
-
   width: 40%;
   margin: 32px auto;
   text-align: center;
@@ -59,7 +63,7 @@ div{
 
 .btn{
   padding: 8px 24px;
-  background-color: rgb(66, 66, 204);
+  background-color: rgb(204, 66, 107);
   color: white;
   border-radius: 4px;
   margin: 8px 0;
@@ -70,7 +74,7 @@ div{
 }
 
 .social a {
-  color: rgb(178, 178, 178);
+  color: rgb(228, 167, 247);
   font-size: 24px;
   margin: 8px;
 }
